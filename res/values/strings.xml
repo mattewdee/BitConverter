@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BitConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+<!--     <string-array name="type"> -->
+<!--         <item>bits</item> -->
+<!--         <item>bytes</item> -->
+<!--         <item>kilobits</item> -->
+<!--         <item>kilobyte</item> -->
+<!--         <item>megabits</item> -->
+<!--         <item>megabytes</item> -->
+<!--         <item>gigabits</item> -->
+<!--         <item>gigabytes</item> -->
+<!--         <item>terabytes</item> -->
+<!--         <item>petabytes</item> -->
+<!--     </string-array> -->
+
+</resources>

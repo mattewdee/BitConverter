@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="5sp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/type"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:text="Type"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/bits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="bits" />
+
+        <TextView
+            android:id="@+id/bytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="bytes" />
+
+        <TextView
+            android:id="@+id/kilobits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="kilobits" />
+
+        <TextView
+            android:id="@+id/kilobyte"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="kilobytes" />
+
+        <TextView
+            android:id="@+id/megabits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="megabits" />
+
+        <TextView
+            android:id="@+id/megabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="megabytes" />
+
+        <TextView
+            android:id="@+id/gigabits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="gigabits" />
+
+        <TextView
+            android:id="@+id/gigabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="gigabytes" />
+
+        <TextView
+            android:id="@+id/terabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="terabytes" />
+
+        <TextView
+            android:id="@+id/petabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="petabytes" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="5sp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/value"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:text="Value"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/Wbits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="bits" />
+
+        <TextView
+            android:id="@+id/Wbytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="bytes" />
+
+        <TextView
+            android:id="@+id/Wkilobits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="kilobits" />
+
+        <TextView
+            android:id="@+id/Wkilobyte"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="kilobyte" />
+
+        <TextView
+            android:id="@+id/Wmegabits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="megabits" />
+
+        <TextView
+            android:id="@+id/Wmegabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="megabytes" />
+
+        <TextView
+            android:id="@+id/Wgigabits"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="gigabits" />
+
+        <TextView
+            android:id="@+id/Wgigabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="gigabytes" />
+
+        <TextView
+            android:id="@+id/Wterabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="terabytes" />
+
+        <TextView
+            android:id="@+id/Wpetabytes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2sp"
+            android:text="petabytes" />
+    </LinearLayout>
+
+</LinearLayout>
